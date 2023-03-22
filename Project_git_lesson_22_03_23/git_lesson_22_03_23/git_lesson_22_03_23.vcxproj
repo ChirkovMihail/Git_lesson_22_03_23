@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClCompile Include="git_lesson_22_03_23.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Head.h" />
+    <ClInclude Include="Soution_stud.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
