@@ -23,7 +23,10 @@
     <ClInclude Include="Head.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Soution_stud.h">
+    <ClInclude Include="Solution_stud.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Levenstein.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
